@@ -6,3 +6,4 @@ Covered so far:
 02. conditional statements
 03. loops
 04. strings
+05. Functions
