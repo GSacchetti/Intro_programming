@@ -7,3 +7,5 @@ Covered so far:
 03. loops
 04. strings
 05. Functions
+06. Lists and tuples
+07. More about functions and modules
