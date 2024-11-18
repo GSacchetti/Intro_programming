@@ -9,3 +9,4 @@ Covered so far:
 05. Functions
 06. Lists and tuples
 07. More about functions and modules
+08. sets and dictionaries
