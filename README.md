@@ -10,3 +10,4 @@ Covered so far:
 06. Lists and tuples
 07. More about functions and modules
 08. sets and dictionaries
+09. texts files
